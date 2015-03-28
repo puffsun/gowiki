@@ -1,4 +1,6 @@
-### The code follow this tutorual: https://golang.org/doc/articles/wiki/
+### Basic Go web application
+
+The code follow this tutorual: https://golang.org/doc/articles/wiki/, you can get a taste of Go web programming from it.
 
 Before starting this tutorual, you should know basic of software programming, and get Go up and running.
 
